@@ -1,7 +1,9 @@
 LlanquihueTourApp
 Descripción del Sistema
 Este sistema ha sido desarrollado para la agencia Llanquihue Tour con el objetivo de resolver la problemática de gestión manual de su red de colaboradores. La aplicación permite automatizar el registro y consulta de guías, operadores y proveedores mediante un módulo que integra la lectura de archivos externos y el manejo de estructuras dinámicas en Java.
+
 El diseño se basa en el paradigma de Programación Orientada a Objetos (POO), asegurando un código mantenible, escalable y con una separación clara de responsabilidades.
+
 Estructura del Proyecto (Organización Modular)
 Siguiendo las buenas prácticas de desarrollo, el código se ha organizado en los siguientes paquetes lógicos:
 com.llanquihue.model: Contiene la clase Colaborador, que representa la entidad del dominio. Se han aplicado principios de encapsulamiento mediante atributos privados y métodos accesores.
